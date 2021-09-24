@@ -13,7 +13,7 @@
     $grzebieni = $_POST['grzebieni'];
     $suma = 0.99*$paczkow + 1.29*$grzebieni;
 
-echo<<<END
+echo <<<END
     
     <h2>Podsumowanie zamówienia</h2>
     
